@@ -1,2 +1,2 @@
 # Python-Uygulamalar
-Python Dersleri
+Python Başlangıç Dersleri
